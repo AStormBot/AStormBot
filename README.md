@@ -4,7 +4,8 @@ I'm AStorm <br>
 And I'm Front-end Developer. <br>
 I'm learning node.js to be js back-end developer. <br>
 then i want to be php back-end developer. <br>
-I love Dark Theme. But My Projects are light because everybody doesn't like Dark Theme.
+I love Dark Theme. But My Projects are light because everybody doesn't like Dark Theme. <br>
+My Twitter is not Working. I'm Fixing that.
 
 ### About me
 - He/Him
