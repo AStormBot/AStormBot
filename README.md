@@ -19,7 +19,7 @@ My Twitter is not Working. I'm Fixing that.
 
 # My IDs
 - Disocrd: `AStorm#2509`
-- Twitter: `@AStorm16188678`
+- Twitter: `@AStorm_a`
 - Email: `astorm.com@gmail.com`
 - Site: `undefined`
 - Reddit: `u/Storm_King52`
