@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 
 I'm AStorm <br>
 And I'm Front-end Developer. <br>
