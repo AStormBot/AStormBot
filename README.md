@@ -1,43 +1,28 @@
 # Hey there 👋
 
-I'm AStorm <br>
-And I'm Front-end Developer. <br>
-I'm learning node.js to be js back-end developer. <br>
-then i want to be php back-end developer. <br>
-I love Dark Theme. But My Projects are light because everybody doesn't like Dark Theme. <br>
-My Twitter is not Working. I'm Fixing that.
+I'm **Amirali Toofaninejad**, an 18-year-old **full-stack developer** passionate about building modern web applications and creating digital content.
 
-# About me
-- He/Him
-- Single
-- Playing Minecraft, Driving Game, Shooting Game and ...
-- Coding for fun
-- Just pop and rock Music!
-- Chating in discord a lot
-- Love Dark.
+I'm currently looking for job opportunities, freelance projects, and collaborations.  
+If you're hiring or think I'd be a good fit for your team, feel free to reach out 😄
+
+## About Me
+
+- Front-end Developer — **React.js**
+- Back-end Developer — **Node.js**
+- Video Editor — **Adobe Premiere Pro, After Effects**
+- Image Editor — **Photoshop, Lightroom**
+- UI/UX Designer — **Figma**
+- `Lot More...`
+- Always learning more and exploring new technologies
 
 
-# My IDs
-- Disocrd: `AStorm#2509`
-- Twitter: `@AStorm_a`
-- Email: `astorm.com@gmail.com`
-- Site: `https://www.astorm.ir/`
-- Reddit: `u/Storm_King52`
-- Steam: `AStorm`
-- Youtube: `AStorm`
+## Contact
 
-### Good Luck!
-<!--
-**AStormBot/AStormBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Email: `aatnejad@gmail.com`
+- YouTube: `AStorm`
+- Discord: `AStorm#2509`  
+  > ❗ Temporarily closed
+- Twitter/X: `@AStorm_a`  
+  > ❗ Temporarily closed
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Thanks for visiting my profile!
